@@ -1,0 +1,1 @@
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\AppClientTCP\bin\Debug\AppClientTCP.exe.config

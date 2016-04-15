@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClient", "AppClientTCP\AppClient.csproj", "{89D8F78E-F048-41EA-AD77-25EBA6DF8632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServer", "AppServerTCP\AppServer.csproj", "{BBAB1526-E2C2-4C8C-9162-B7A018D2E359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TCP App", "TCP App", "{E99E50BA-9620-47C1-B097-D13BA340B4E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UDP App", "UDP App", "{8BCE78DA-D83C-4DEB-9E6F-1F0FA1679AF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multicast App", "Multicast App", "{6B17560F-C2F5-41FE-8E71-C56CEB9D775A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D8F78E-F048-41EA-AD77-25EBA6DF8632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D8F78E-F048-41EA-AD77-25EBA6DF8632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D8F78E-F048-41EA-AD77-25EBA6DF8632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D8F78E-F048-41EA-AD77-25EBA6DF8632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAB1526-E2C2-4C8C-9162-B7A018D2E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAB1526-E2C2-4C8C-9162-B7A018D2E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAB1526-E2C2-4C8C-9162-B7A018D2E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAB1526-E2C2-4C8C-9162-B7A018D2E359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89D8F78E-F048-41EA-AD77-25EBA6DF8632} = {E99E50BA-9620-47C1-B097-D13BA340B4E5}
+		{BBAB1526-E2C2-4C8C-9162-B7A018D2E359} = {E99E50BA-9620-47C1-B097-D13BA340B4E5}
+	EndGlobalSection
+EndGlobal
