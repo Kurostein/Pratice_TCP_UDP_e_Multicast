@@ -10,8 +10,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TCP App", "TCP App", "{E99E50BA-9620-47C1-B097-D13BA340B4E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UDP App", "UDP App", "{8BCE78DA-D83C-4DEB-9E6F-1F0FA1679AF5}"
+	ProjectSection(SolutionItems) = preProject
+		Meow Two.txt = Meow Two.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multicast App", "Multicast App", "{6B17560F-C2F5-41FE-8E71-C56CEB9D775A}"
+	ProjectSection(SolutionItems) = preProject
+		Meow.txt = Meow.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
