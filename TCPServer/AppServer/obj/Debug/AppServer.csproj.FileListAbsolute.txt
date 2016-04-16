@@ -1,0 +1,13 @@
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\obj\Debug\AppServer.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\bin\Debug\AppServer.exe.config
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\obj\Debug\AppServer.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\obj\Debug\AppServer.pdb
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\bin\Debug\AppServer.exe.manifest
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\bin\Debug\AppServer.application
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\bin\Debug\AppServer.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\bin\Debug\AppServer.pdb
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\obj\Debug\AppServer.exe.manifest
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppServer\obj\Debug\AppServer.application
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPServer\AppServer\bin\Debug\AppServer.exe.config
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPServer\AppServer\obj\Debug\AppServer.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPServer\AppServer\obj\Debug\AppServer.pdb

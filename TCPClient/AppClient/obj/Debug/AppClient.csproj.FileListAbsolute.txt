@@ -1,0 +1,12 @@
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClient.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClient.csproj.GenerateResource.Cache
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClientTCP.ClientWindow.resources
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\bin\Debug\AppClient.exe.config
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClient.Properties.Resources.resources
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\bin\Debug\AppClient.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\bin\Debug\AppClient.pdb
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClient.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\RemoteCommunicationPratice\TCP\AppClient\obj\Debug\AppClient.pdb
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPClient\AppClient\bin\Debug\AppClient.exe.config
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPClient\AppClient\obj\Debug\AppClient.exe
+C:\Users\usuario\Dev Projects\C#\Pratice_TCP_UDP_e_Multicast\TCPClient\AppClient\obj\Debug\AppClient.pdb
